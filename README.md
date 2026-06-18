@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 PlayFinder(GO) is a Open source Product which Can Scrap Data From Google Play Store,
-Free And Absolutely Open Source And Developed For Education Purpose.
+Free And Absolutely Open Source And Developed For Education Purpose Only..
 
 
 # 𝘉𝘈𝘚𝘌 𝘜𝘙𝘓
