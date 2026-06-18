@@ -9,7 +9,7 @@ Free And Absolutely Open Source And Developed For Education And Learning Purpose
 𝘩𝘵𝘵𝘱://𝘦𝘹𝘢𝘮𝘱𝘭𝘦.𝘤𝘰𝘮/𝘨𝘦𝘵𝘪𝘯𝘧𝘰
 
 𝘙𝘦𝘲𝘶𝘦𝘴𝘵 𝘔𝘦𝘵𝘩𝘰𝘥: 𝘎𝘌𝘛,
-𝘙𝘦𝘴𝘱𝘰𝘯𝘴𝘦 𝘛𝘺𝘱𝘦: 𝘑𝘚𝘖𝘕
+𝘙𝘦𝘴𝘱𝘰𝘯𝘴𝘦 𝘛𝘺𝘱𝘦: 𝘑𝘚𝘖𝘕.
 
 
 # 𝘙𝘌𝘘𝘜𝘌𝘚𝘛 𝘜𝘙𝘓 𝘍𝘖𝘙 𝘚𝘌𝘈𝘙𝘊𝘏 𝘈𝘗𝘗
